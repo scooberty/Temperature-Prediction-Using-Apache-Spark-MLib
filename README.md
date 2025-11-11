@@ -1,6 +1,4 @@
-# Temperature-Prediction-Using-Apache-Spark-MLib-
-
-## Machine Learning on Weather Data Using Apache Spark MLib (PySpark + Dataproc)
+# Machine Learning on Weather Data Using Apache Spark MLib (PySpark + Dataproc)
 
 This project implements a distributed end-to-end ML pipeline for predicting surface air temperature from the NOAA Integrated Surface Dataset (ISD). We use Apache Spark MLlib on Google Cloud Dataproc with data in Google Cloud Storage (GCS) to perform scalable preprocessing, feature engineering, model training, and hyperparameter tuning. 
 
